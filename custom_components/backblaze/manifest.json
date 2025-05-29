@@ -6,6 +6,7 @@
   "documentation": "https://www.home-assistant.io/integrations/backblaze",
   "integration_type": "service",
   "iot_class": "cloud_push",
+  "version": "1.0.0",
   "loggers": ["b2sdk"],
   "quality_scale": "bronze",
   "requirements": ["b2sdk==2.8.1"]
