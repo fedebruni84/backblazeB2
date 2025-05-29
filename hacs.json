@@ -1,0 +1,9 @@
+{
+  "name": "Backblaze B2 Backup",
+  "content_in_root": false,
+  "domains": ["backup"],
+  "homeassistant": "2023.0.0",
+  "hacs": "1.0.0",
+  "persistent_directory": "config",
+  "iot_class": "Cloud Push"
+}
